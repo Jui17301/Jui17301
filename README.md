@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/Jui17301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumaiya siddiqa jui" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumaiya siddiqa jui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya siddiqa jui" height="30" width="40" /></a>
-<a href="https://fb.com/jui rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jui rahman" height="30" width="40" /></a>
+<a href="https://fb.com/Jui17301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jui rahman" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jui_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jui_17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Jui17301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumaiya siddiqa jui" height="30" width="40" /></a>
 </p>
