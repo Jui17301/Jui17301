@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jui17301&label=Profile%20views&color=0e75b6&style=flat" alt="jui17301" /> </p>
 
-- 🔭 I’m currently working on [CV-wesbite](https://github.com/SumaiyaSiddiqaJui/portfolio-website)
 
 - 📫 How to reach me **juirahman17301@gmail.com**
 
